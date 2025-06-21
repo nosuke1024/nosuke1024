@@ -77,14 +77,8 @@
 <img src="https://skillicons.dev/icons?i=azure,gcp" />
 
 ### 🚀 **No-Code Tools**
-<div style="display: inline-block; margin: 10px;">
-  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_b7ce8e5b947238b6bd3d1ba903633d62/bubble.png" width="48" height="48" alt="Bubble" style="border-radius: 8px;" />
-  <br><small><strong>Bubble</strong></small>
-</div>
-<div style="display: inline-block; margin: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Microsoft_Power_Apps_logo.svg/1200px-Microsoft_Power_Apps_logo.svg.png" width="48" height="48" alt="PowerApps" style="border-radius: 8px;" />
-  <br><small><strong>PowerApps</strong></small>
-</div>
+![Bubble](https://img.shields.io/badge/Bubble-0052CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IndoaXRlIi8+Cjx0ZXh0IHg9IjUiIHk9IjE2IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNCIgZmlsbD0iIzAwNTJDQyI+QjwvdGV4dD4KPC9zdmc+&logoColor=white)
+![PowerApps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 
 </td>
 </tr>
